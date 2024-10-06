@@ -216,6 +216,9 @@ footer a:hover {
     padding: 45px 50px;
     text-align: center;
     color: rgb(62, 62, 62);
+    border: whitesmoke solid 0.5px;
+    box-shadow: 25px 0px 25px;
+    margin-bottom: 70px;
 }
 
 .stat {
@@ -249,7 +252,7 @@ footer a:hover {
 }
 
 .card {
-    padding: 10px;
+    padding: 20px;
     background-color: white;
     border-radius: 10px;
     box-shadow: -7px -7px 20px rgba(0, 0, 0, 0.2),
